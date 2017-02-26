@@ -1,0 +1,16 @@
+{
+  "name": "@cra/semantic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/semantic.css",
+  "scripts": {
+    "build": "gulp build",
+    "clean": "gulp clean"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "semantic-ui": "^2.2.9"
+  }
+}
